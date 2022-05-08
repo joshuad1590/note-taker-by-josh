@@ -22,8 +22,8 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 Screenshot:
-<img src="./Develop/public/images/note1.png" width="400px" </img>> 
-
+![note1](https://user-images.githubusercontent.com/97073221/167278225-d36b38d7-f932-466b-b7f4-43836714360b.png)
+![note2](https://user-images.githubusercontent.com/97073221/167278231-1c3648f2-1edc-4ebc-8e28-790408d70903.png)
 
 
 
