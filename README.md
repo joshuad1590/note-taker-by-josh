@@ -32,3 +32,6 @@ Screenshot:
 
 Deployment:
 https://note-taker-by-josh.herokuapp.com/ | https://git.heroku.com/note-taker-by-josh.git
+
+GitHub:
+https://github.com/joshuad1590/note-taker-by-josh
